@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Porque comprar o Xbox Series X?</h1>
-    <p class="Características Do Xbox Series X"><strengh>Desempenho de última geração:</strengh> O Xbox Series X é alimentado por um processador personalizado da AMD baseado na arquitetura Zen 2, proporcionando uma capacidade de processamento excepcional. Ele também possui uma GPU RDNA 2 personalizada que suporta ray tracing para gráficos mais realistas.</p>
+    <p class="Características Do Xbox Series X:"><strengh>Desempenho de última geração:</strengh> O Xbox Series X é alimentado por um processador personalizado da AMD baseado na arquitetura Zen 2, proporcionando uma capacidade de processamento excepcional. Ele também possui uma GPU RDNA 2 personalizada que suporta ray tracing para gráficos mais realistas.</p>
     <p><strengh>Resolução 4K nativa:</strengh> O console é projetado para oferecer jogos em resolução 4K nativa, proporcionando uma qualidade de imagem excepcional e uma experiência visual imersiva.</p>
     <p>
     <p>PARAGRAFO 3 
